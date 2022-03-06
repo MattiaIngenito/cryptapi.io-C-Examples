@@ -1,6 +1,6 @@
 # cryptapi.io-cpp-examples
 Basic C++ integration examples for cryptapi.io service.
-More info about on https://cryptapi.io
+More info on https://cryptapi.io
 
 Using libcurl for handling web request and jsoncpp for json parsing
 
